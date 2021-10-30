@@ -8,7 +8,7 @@
 
 
 ## About me 
-I'm an undergrad pursuing Electronics and Communication Engineering at National Institute of Technology, Calicut. Deep Learning practitioner. Intrested in AI and Robotics.
+I'm an undergrad pursuing Electronics and Communication Engineering at National Institute of Technology, Calicut. Deep Learning practitioner.
 
 - 🔭 I’m currently working on Multi Task Learning
 - 💬 Ask me about **ML, DL**
