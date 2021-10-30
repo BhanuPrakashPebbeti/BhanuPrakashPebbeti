@@ -3,6 +3,8 @@
 [![Github](https://img.shields.io/github/followers/BhanuPrakashPebbeti?label=Follow&style=social)](https://github.com/BhanuPrakashPebbeti)
 ![](https://komarev.com/ghpvc/?username=BhanuPrakashPebbeti&color=green)
 [![Linkedin](https://img.shields.io/badge/-Bhanu%20Prakash-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bhanu-prakash-pebbeti-700b80191/)](https://www.linkedin.com/in/bhanu-prakash-pebbeti-700b80191/)
+[![Twitter](https://img.shields.io/badge/@Bhanu_152-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Bhanu_152/)](https://twitter.com/Bhanu_152/)
+
 
 ## About me 
 I'm an undergrad pursuing Electronics and Communication Engineering at National Institute of Technology, Calicut. Deep Learning practitioner. Intrested in AI and Robotics.
