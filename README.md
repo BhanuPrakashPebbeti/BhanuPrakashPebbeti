@@ -8,6 +8,7 @@
 I'm an undergrad pursuing Electronics and Communication Engineering at National Institute of Technology, Calicut. Deep Learning practitioner. Intrested in AI and Robotics.
 
 - 🔭 I’m currently working on Multi Task Learning
+- 📫 How to reach me: pebbetibhanu2017@gmail.com
 
 ### Interesting stats
 
