@@ -16,7 +16,6 @@ I'm an undergrad pursuing Electronics and Communication Engineering at National 
 - 💬 Ask me about **ML, DL**
 - 📖 Instrested in
    - AI
-   - Robotics
    - Self Driving Technology
 - 📫 How to reach me **pebbetibhanu2017@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
