@@ -4,9 +4,6 @@
 ![](https://komarev.com/ghpvc/?username=BhanuPrakashPebbeti&color=green)
 [![Linkedin](https://img.shields.io/badge/-Bhanu%20Prakash-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bhanu-prakash-pebbeti-700b80191/)](https://www.linkedin.com/in/bhanu-prakash-pebbeti-700b80191/)
 [![Twitter](https://img.shields.io/badge/@Bhanu_152-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Bhanu_152/)](https://twitter.com/Bhanu_152/)
-<!--
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/b.h.a.n.u__p.r.a.k.a.s.h/)](https://www.instagram.com/b.h.a.n.u__p.r.a.k.a.s.h/)
--->
 
 
 ## About me 
