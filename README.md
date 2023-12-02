@@ -7,7 +7,7 @@
 
 
 ## About me 
-AI enthusiast who graduated in Electronics and Communication Engineering from NIT Calicut. I've published two scientific journals in deep learning and have a keen interest in Computer Vision, Generative AI, NLP, and Reinforcement Learning. Excited to explore the endless possibilities at the intersection of technology and intelligence.
+AI enthusiast graduated in Electronics and Communication Engineering from NIT Calicut. I've published two scientific journals in deep learning and have a keen interest in Computer Vision, Generative AI, NLP, and Reinforcement Learning. Excited to explore the endless possibilities at the intersection of technology and intelligence.
 
 - 🔭 I’m currently working on Nerf based models and generative AI.
 - 💬 Ask me about **ML, DL**
